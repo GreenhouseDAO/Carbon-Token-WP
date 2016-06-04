@@ -3,7 +3,7 @@
 #Carbon Tokens on the Universal Sharing Network and Ethereum Computer
 | draft 0.8 Author, Maciej Pomin @ seeds concept   
 
-1. Introduction.
+##1. Introduction.
 
 This white paper introduces the idea of the Greenhouse DAO.
 This is an autonomous, collaborative organisation whose objective would be to unite investors around the concept of attributing a monetary value to the Social Cost of Carbon SCC.
