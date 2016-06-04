@@ -21,16 +21,16 @@ Carbon Tokens would be emitted in two phases.
 
 ##2. The Greenhouse DAO, two stages in the emission of CT’s :
 
-Stage I. Pre-sales 
+###Stage I. Pre-sales 
 The objective of the pre-sale stage is the empowerment of a Greenhouse DAO and the development of the first DAPP applications for the management of future energy emissions and energy saving. 
 Within the pre-sale stage (until stage 2) the value of Carbon Token (unlimited units) can be :
-For the holders of  DAO tokens :
-1 or 10 DT = 1 CT
-For ETH holders :
-1 CT = 0,52 ETH*
+####For the holders of  DAO tokens :
+#####1 or 10 DT = 1 CT
+####For ETH holders :
+#####1 CT = 0,52 ETH*
 *At the current market price at the time of publication of this white paper 5,79 $/t CO2 EU ETS.
 
-Stage II. Introduction on the free market.
+###Stage II. Introduction on the free market.
 Introduction of CT on USN and EC. In this phase the energy consumers and producers become the issuers of Carbon Tokens.
 This is a milestone in the birth of a Greenhouse DAO, a stage in which DAPPs are launched through USN and the EC. We now begin to collect and analyze data on GHG emissions. Investments leading to economic activity which effectively reduces pollution are paid for in CTs, manufacturers of energy and its users have become emitters of carbon tokens.
 1 CT = 1 ton of emission reduction GEC, price explained at the outset. (le prix expliqué dans l'introduction)
