@@ -3,7 +3,7 @@
 # Carbon Tokens on the Universal Sharing Network and Ethereum Computer
 draft 0.8 | Author, Maciej Pomin @ seeds concept  
 
-## 1. Introduction.
+## 1. Introduction
 
 This white paper introduces the idea of the Greenhouse DAO.   
 This is an autonomous, collaborative organisation whose objective would be to unite investors around the concept of attributing a monetary value to the Social Cost of Carbon SCC. This idea is based on attributing a value to sources of income (derived in the long-term) from investments in all sectors of economy whose activity results in the reduction of Greenhous Gases GHG emissions.   
@@ -34,22 +34,22 @@ Within the pre-sale stage (until stage 2) the value of Carbon Token (unlimited u
 ##### 1 CT = 0,52 ETH*
 *At the current market price at the time of publication of this white paper 5,79 $/t CO2 EU ETS.
 
-###Stage II. Introduction on the free market.
+###Stage II. Introduction on the free market
 Introduction of CT on USN and EC. In this phase the energy consumers and producers become the issuers of Carbon Tokens.   
 This is a milestone in the birth of a Greenhouse DAO, a stage in which DAPPs are launched through USN and the EC. We now begin to collect and analyze data on GHG emissions.   
 Investments leading to economic activity which effectively reduces pollution are paid for in CTs, manufacturers of energy and its users have become emitters of carbon tokens.    
 1 CT = 1 ton of emission reduction GEC, price explained at the outset.
 
 
-##3. Carbon Tokens become economic levers.
+## 3. Carbon Tokens become economic levers
 
-Examples of Greenhouse gas reductions compensated by CT's :
+##### Examples of Greenhouse gas reductions compensated by CT's :
     
 In transport: the use of electric and hybrid vehicles, car sharing, public transport, bicycles; in this context the new DAPPs would facilitate the transition.
 
 In the construction of housing, passive buildings with close to zero carbon emissions as well as building contributing to energy production would be encouraged.
 
-In agriculture,  CTs would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
+In agriculture,  CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
 
 These are just three examples which illustrate how to put the model into practice. In each case there is an enormous potential which could result in / lead to the origin of autonomous, innovative organisations linked to the Greenhouse DAOs.
 
