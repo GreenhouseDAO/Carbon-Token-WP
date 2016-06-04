@@ -19,7 +19,7 @@ This value may seem high at first glance, however it comes from scenarios forese
 Carbon Tokens would be emitted in two phases.
 
 
-2. The Greenhouse DAO, two stages in the emission of CT’s :
+##2. The Greenhouse DAO, two stages in the emission of CT’s :
 
 Stage I. Pre-sales 
 The objective of the pre-sale stage is the empowerment of a Greenhouse DAO and the development of the first DAPP applications for the management of future energy emissions and energy saving. 
@@ -36,7 +36,7 @@ This is a milestone in the birth of a Greenhouse DAO, a stage in which DAPPs are
 1 CT = 1 ton of emission reduction GEC, price explained at the outset. (le prix expliqué dans l'introduction)
 
 
-3. Carbon Tokens become economic levers.
+##3. Carbon Tokens become economic levers.
 
 Examples of Greenhouse gas reductions compensated by CT's :
     
