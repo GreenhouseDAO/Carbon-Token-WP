@@ -38,7 +38,7 @@ Within the pre-sale stage (until stage 2) the value of Carbon Token (unlimited u
 Introduction of CT on USN and EC. In this phase the energy consumers and producers become the issuers of Carbon Tokens.   
 This is a milestone in the birth of a Greenhouse DAO, a stage in which DAPPs are launched through USN and the EC. We now begin to collect and analyze data on GHG emissions.   
 Investments leading to economic activity which effectively reduces pollution are paid for in CTs, manufacturers of energy and its users have become emitters of carbon tokens.    
-1 CT = 1 ton of emission reduction GHG ≥ 1025 $ , price explained at the outset.
+1 CT = 1 ton of emission reduction GHG ≥ 1025 $, price explained at the outset.
 
 
 ## 3. Carbon Tokens become economic levers
@@ -49,7 +49,7 @@ In transport: the use of electric and hybrid vehicles, car sharing, public trans
 
 In the construction of housing, passive buildings with close to zero carbon emissions as well as building contributing to energy production would be encouraged.
 
-In agriculture,  CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
+In agriculture, CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
 
 These are just three examples which illustrate how to put the model into practice. In each case there is an enormous potential which could result in / lead to the origin of autonomous, innovative organisations linked to the Greenhouse DAOs.
 
@@ -58,7 +58,7 @@ The expectation of the company Sas Seeds concept in the future of this project i
 Providing expertise on new solutions concerning Greenhouse DAOs and DAPPs on the general USN sharing network and the Ethereum computer.
 In the future, taking part in the development of research on the effects of GEC. These studies will be/ would be helpful in estimating costs of gas emission.
 
-I hope that the proposal of Greenhouse DAO will meet with great interest, I would like to invite you to discuss and initiate investment in Carbon Token within USN and EC .
+I hope that the proposal of Greenhouse DAO will meet with great interest, I would like to invite you to discuss and initiate investment in Carbon Token within USN and EC.
 
 
 Maciej Pomin
