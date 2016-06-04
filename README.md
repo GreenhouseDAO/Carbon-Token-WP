@@ -5,14 +5,14 @@
 
 1. Introduction.
 
-  This white paper introduces the idea of the Greenhouse DAO.
+This white paper introduces the idea of the Greenhouse DAO.
 This is an autonomous, collaborative organisation whose objective would be to unite investors around the concept of attributing a monetary value to the Social Cost of Carbon SCC.
 This idea is based on attributing a value to sources of income derived in the long-term from investments in all sectors of economy whose activity results in the reduction of Greenhous Gases GHG emissions.
 In the scenario adopted by Greenhouse DAO we assume that investments in climate are beneficial and should be implemented immediately. 
 They should start from the highest level of estimated GHG costs and are gradually adapted in order to encourage the maximum possible reduction of emissions by 2100.
 The value attributed would be inversely proportional to the value proposed in the estimates of the SCC which vary between 200 - 1025$ in most publications.(1, 2, 3, 4)
 Government research and syntheses of various cases of the interaction of all the elements modeling every aspect of climate change reveal that it is extremely difficult to estimate the consequences of climate change and just as difficult to put a price tag on the impact this change will have on the economy.  
-  In order to achieve this the Greenhouse DAO would emit Carbon Tokens CT.
+In order to achieve this the Greenhouse DAO would emit Carbon Tokens CT.
 The price of Carbon Token could be fixed at ≥ 1025 $/t CO2, chosen so as to attract investors to the project.
 The Carbon Token can be defined as an economic tool whose role would be to accelerate the process of energetic transition.
 This value may seem high at first glance, however it comes from scenarios foreseeing GHG influence on the economics of the environment - better to prevent than cure
