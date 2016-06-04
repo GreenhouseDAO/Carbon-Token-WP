@@ -29,7 +29,7 @@ Carbon Tokens would be emitted in two phases.
 The objective of the pre-sale stage is the empowerment of a Greenhouse DAO and the development of the first DAPP applications for the management of future energy emissions and energy saving. 
 Within the pre-sale stage (until stage 2) the value of Carbon Token (unlimited units) can be :
 ##### For the holders of  DAO tokens :
-##### 1 or 10 DT = 1 CT
+##### 1 CT = 1 DT
 ##### For ETH holders :
 ##### 1 CT = 0,52 ETH*
 *At the current market price at the time of publication of this white paper 5,79 $/t CO2 EU ETS.
@@ -51,7 +51,7 @@ In the construction of housing, passive buildings with close to zero carbon emis
 
 In agriculture, CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
 
-These are just three examples which illustrate how to put the model into practice. In each case there is an enormous potential which could result in / lead to the origin of autonomous, innovative organisations linked to the Greenhouse DAOs.
+These are just three examples which illustrate how to put the model into practice. In each case there is an enormous potential which could lead to the origin of autonomous, innovative organisations linked to the Greenhouse DAOs.
 
 The expectation of the company Sas Seeds concept in the future of this project is :
 
