@@ -20,7 +20,7 @@ Carbon Tokens would be emitted in two phases.
 1. https://www3.epa.gov/climatechange/EPAactivities/economics/scc.html   
 2. http://www.cepii.fr/BLOG/bi/post.asp?IDcommunique=439   
 3. http://www.nature.com/nclimate/journal/v5/n2/full/nclimate2481.html   
-4. Grubb M. avec Hourcade JC et Neuhoff K., 2015, Planetary Economics, London, Earthcanm, section 1,3 chapitre 1
+4. Grubb M. avec Hourcade JC et Neuhoff K., 2015, Planetary Economics, London, Earthcanm, section 1.3 chapter 1
 
 
 ##2. The Greenhouse DAO, two stages in the emission of CT’s :
