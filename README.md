@@ -38,7 +38,7 @@ Within the pre-sale stage (until stage 2) the value of Carbon Token (unlimited u
 Introduction of CT on USN and EC. In this phase the energy consumers and producers become the issuers of Carbon Tokens.   
 This is a milestone in the birth of a Greenhouse DAO, a stage in which DAPPs are launched through USN and the EC. We now begin to collect and analyze data on GHG emissions.   
 Investments leading to economic activity which effectively reduces pollution are paid for in CTs, manufacturers of energy and its users have become emitters of carbon tokens.    
-1 CT = 1 ton of emission reduction GEC, price explained at the outset.
+1 CT = 1 ton of emission reduction GHG ≥ 1025 $ , price explained at the outset.
 
 
 ## 3. Carbon Tokens become economic levers
