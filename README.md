@@ -6,7 +6,7 @@ draft 0.8 | Author, Maciej Pomin @ seeds concept
 ## 1. Introduction
 
 This white paper introduces the idea of the Greenhouse DAO.   
-This is an autonomous, collaborative organisation whose objective would be to unite investors around the concept of attributing a monetary value to the Social Cost of Carbon SCC. This idea is based on attributing a value to sources of income (derived in the long-term) from investments in all sectors of economy whose activity results in the reduction of Greenhous Gases GHG emissions.   
+This is an autonomous, collaborative organisation whose objective would be to unite investors around the concept of attributing a monetary value to the Social Cost of Carbon SCC. This idea is based on attributing a value to sources of income (derived in the long-term) from investments in all sectors of economy whose activity results in the reduction of Greenhouse Gases GHG emissions.   
 In the scenario adopted by Greenhouse DAO we assume that investments in climate are beneficial and should be implemented immediately.    
 They should start from the highest level of estimated GHG costs and are gradually adapted in order to encourage the maximum possible reduction of emissions by 2100.  
 The value attributed would be inversely proportional to the value proposed in the estimates of the SCC which vary between 200 - 1025$ in most publications. (1, 2, 3, 4)    
