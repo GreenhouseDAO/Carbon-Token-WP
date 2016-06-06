@@ -17,11 +17,6 @@ The Carbon Token can be defined as an economic tool whose role would be to accel
 This value may seem high at first glance, however it comes from scenarios foreseeing GHG influence on the economics of the environment - it makes more sense to take preventive action than to deal with the consequences.   
 Carbon Tokens would be emitted in two phases.
 
-1. https://www3.epa.gov/climatechange/EPAactivities/economics/scc.html   
-2. http://www.cepii.fr/BLOG/bi/post.asp?IDcommunique=439   
-3. http://www.nature.com/nclimate/journal/v5/n2/full/nclimate2481.html   
-4. Grubb M. avec Hourcade JC et Neuhoff K., 2015, Planetary Economics, London, Earthcanm, section 1.3 chapter 1
-
 
 ##2. The Greenhouse DAO, two stages in the emission of CT’s :
 
@@ -49,7 +44,7 @@ In transport: the use of electric and hybrid vehicles, car sharing, public trans
 
 In the construction of housing, passive buildings with close to zero carbon emissions as well as building contributing to energy production would be encouraged.
 
-In agriculture, CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
+In agriculture,CT's would support the development of, for exemple permacultures and other forms of production resulting in a decreasing amount of emissions or zero emissions.
 
 These are just three examples which illustrate how to put the model into practice. In each case there is an enormous potential which could lead to the origin of autonomous, innovative organisations linked to the Greenhouse DAOs.
 
@@ -62,6 +57,13 @@ I hope that the proposal of Greenhouse DAO will meet with great interest, I woul
 
 
 Maciej Pomin
+
+References :
+
+1. https://www3.epa.gov/climatechange/EPAactivities/economics/scc.html   
+2. http://www.cepii.fr/BLOG/bi/post.asp?IDcommunique=439   
+3. http://www.nature.com/nclimate/journal/v5/n2/full/nclimate2481.html   
+4. Grubb M. avec Hourcade JC et Neuhoff K., 2015, Planetary Economics, London, Earthcanm, section 1.3 chapter 1
 
 
 
