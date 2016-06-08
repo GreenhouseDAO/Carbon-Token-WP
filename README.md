@@ -51,7 +51,7 @@ These are just three examples which illustrate how to put the model into practic
 The expectation of the company Sas Seeds concept in the future of this project is :
 
 Providing expertise on new solutions concerning Greenhouse DAOs and DAPPs on the general USN sharing network and the Ethereum computer.
-In the future, taking part in the development of research on the effects of GEC. These studies will be/ would be helpful in estimating costs of gas emission.
+In the future, taking part in the development of research on the effects of GEC. These studies will be helpful in estimating costs of gas emission.
 
 I hope that the proposal of Greenhouse DAO will meet with great interest, I would like to invite you to discuss and initiate investment in Carbon Token within USN and EC.
 
